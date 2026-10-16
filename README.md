@@ -48,4 +48,7 @@ assignment-3-weather-dashboard/
 ├── tailwind.config.js 
 └── README.md
 
+## Deployment 
 
+This is the deployement link
+[https://assignment-3-weather-dashboard.vercel.app/]
